@@ -18,7 +18,7 @@ If you need to convert PLIST files to YAML, or vice versa, check out [plist-yaml
 
 ## Deprecations ☠️
 
-The projects based on [python-jss](https://github.com/jssimporter/python-jss) that I inherited from Shea Craig, namely JSSImporter, Spruce, jss_helper, JSSRecipeCreator, and python-jss itself, are all now deprecated. Most of these will cease to function in March 2024, when Jamf removes Basic Authentication from Jamf Pro. You can still find the code in the [JSSImporter](https://github.com/jssimporter) organisation.
+The projects based on [python-jss](https://github.com/jssimporter/python-jss) that I inherited from Shea Craig, namely JSSImporter, Spruce, jss_helper, JSSRecipeCreator, and python-jss itself, are all now deprecated. You can still find the code in the [JSSImporter](https://github.com/jssimporter) organisation.
 
 <!--
 **grahampugh/grahampugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
