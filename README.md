@@ -2,7 +2,7 @@
 
 My most popular and demanding project is 🗂️ [erase-install](https://github.com/grahampugh/erase-install), a zsh script for upgrading, reinstalling and erasing macOS. This was updated significantly in 2022 to use [mist-cli](https://github.com/ninxsoft/mist-cli) and [swiftDialog](https://github.com/swiftDialog/swiftDialog), and has to keep pace with changes to those projects as well as changes to macOS itself.
 
-My other most used project is [JamfUploader](https://github.com/grahampugh/jamf-upload). This is a collection of python processors for use with [AutoPkg](https://github.com/autopkg/autopkg) which is the dominant method for integrating AutoPkg with Jamf Pro. The project also includes `jamf-upload.sh`, a script enabling the use of the JamfUploader framework to create or amend all sorts of API objects without having to write AutoPkg recipes.
+<img width="100" height="100" alt="jamfuploader-logo" src="https://github.com/user-attachments/assets/1976ac48-8f3c-49c6-a11f-9a57b5c26889"  align="right" />My other most used project is [JamfUploader](https://github.com/grahampugh/jamf-upload). This is a collection of python processors for use with [AutoPkg](https://github.com/autopkg/autopkg) which is the dominant method for integrating AutoPkg with Jamf Pro. The project also includes `jamf-upload.sh`, a script enabling the use of the JamfUploader framework to create or amend all sorts of API objects without having to write AutoPkg recipes.
 
 The JamfUploader processors are also mirrored in my AutoPkg recipes repo, [grahampugh-recipes](https://github.com/autopkg/grahampugh-recipes), along with a large collection of recipes and examples of how to write `.jamf` recipes.
 
